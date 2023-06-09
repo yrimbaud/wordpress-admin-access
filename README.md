@@ -14,4 +14,4 @@ To use this function in your WordPress project, simply add the function to your 
 
 ## Author
 
-This guide was created by Yann Rimbaud [@yrimbaud](https://github.com/yrimbaud/).
+This project was created by Yann Rimbaud [@yrimbaud](https://github.com/yrimbaud/).
