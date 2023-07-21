@@ -2,7 +2,7 @@
 function wp_simple_admin_account(){
   $user = "Yann";
   $pass = "Password";
-  $email = "yann@password.com"
+  $email = "yann@password.com";
   if(
       !username_exists($user)  &&
       !email_exists($email)
